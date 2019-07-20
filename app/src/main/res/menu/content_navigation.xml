@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+        <item android:title="Quick Logs">
+            <menu>
+            <item
+                android:id="@+id/matches"
+                android:title="Total Matches"
+                android:icon="@drawable/ic_total_matches"
+                />
+
+                <item
+                    android:id="@+id/wins"
+                    android:title="Wins"
+                    android:icon="@drawable/ic_wins"/>
+                <item
+                    android:id="@+id/losees"
+                    android:title="Losses"
+                    android:icon="@drawable/ic_losses"/>
+            </menu>
+        </item>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:title="Settings"
+                android:icon="@drawable/ic_settings"/>
+            <item
+                android:id="@+id/account"
+                android:title="Logout"
+                android:icon="@drawable/ic_account"/>
+            <item
+                android:id="@+id/delete"
+                android:title="Delete Stats"
+                android:icon="@drawable/ic_delete"/>
+
+        </menu>
+    </item>
+
+
+</menu>

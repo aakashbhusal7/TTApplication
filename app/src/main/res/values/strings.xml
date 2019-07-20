@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TTApp</string>
+    <string name="don_t_have_an_account_alert">Don\'t have an account?</string>
+    <string name="already_have_account_alert">Already have an account?</string>
+    <string name="email_alert">Email is not entered</string>
+    <string name="password_alert">Password is empty</string>
+    <string name="login_successful_alert">Sucessfully logged in</string>
+    <string name="login_unsuccessful_alert">Login unsuccessful</string>
+    <string name="reg_sucessful_alert">Successfully registered</string>
+    <string name="reg_unsuccessful_alert">Registration unsuccessful</string>
+    <string name="label_profile_name">Aakash Bhusal</string>
+    <string name="label_email">abhusal7@gmail.com</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">close</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="profile_table_name">profile_table</string>
+</resources>

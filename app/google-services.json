@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067667242996",
+    "firebase_url": "https://ttapp-5d001.firebaseio.com",
+    "project_id": "ttapp-5d001",
+    "storage_bucket": "ttapp-5d001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067667242996:android:d451aae1ce3cd657",
+        "android_client_info": {
+          "package_name": "com.example.ttapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067667242996-rluscbh0dbl8nlfmr9ahvbnkpk7j27bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq90Df0Vzo3nVG9xEjNk6ZN_xpKah0qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067667242996-rluscbh0dbl8nlfmr9ahvbnkpk7j27bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
